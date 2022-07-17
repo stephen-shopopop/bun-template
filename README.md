@@ -12,7 +12,8 @@
 curl -fsSL https://bun.sh/install | bash
 ```
 
-[Examples](https://github.com/oven-sh/bun/tree/main/examples)
+- [examples](https://github.com/oven-sh/bun/tree/main/examples)
+- [awesome bun](https://github.com/apvarun/awesome-bun)
 
 ## Usage
 
