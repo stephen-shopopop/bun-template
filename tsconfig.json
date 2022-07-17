@@ -2,6 +2,7 @@
   "compilerOptions": {
     "lib": ["ESNext"],
     "module": "esnext",
+    "strictNullChecks": true,
     "target": "esnext",
     // "bun-types" is the important part
     "types": ["bun-types"]
