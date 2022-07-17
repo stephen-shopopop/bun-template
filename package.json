@@ -1,0 +1,36 @@
+{
+  "name": "bun-template",
+  "version": "0.0.1",
+  "author": "tech-shopopop <tech@shopopop.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/{repository}.git"
+  },
+  "main": "src/index.ts",
+  "devDependencies": {
+    "bun-types": "^0.0.83"
+  },
+  "bugs": {
+    "url": "https://github.com/{repository}/issues"
+  },
+  "contributors": [
+    "stephen.deletang@shopopop.com"
+  ],
+  "description": "template use bun",
+  "engines": {
+    "bun": ">=0.1.14"
+  },
+  "keywords": [
+    "bun"
+  ],
+  "license": "ISC",
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "private": true,
+  "scripts": {
+    "start": "bun run src/index.ts"
+  }
+}
