@@ -26,15 +26,14 @@
   "keywords": [
     "bun"
   ],
-  "license": "ISC",
+  "license": "NONE",
   "os": [
     "darwin",
-    "linux",
-    "win32"
+    "linux"
   ],
   "private": true,
   "scripts": {
-    "start": "bun run src/index.ts",
+    "start": "bun src/index.ts",
     "lint": "ts-standard --verbose | snazzy",
     "lint:fix": "ts-standard --fix",
     "test": "bun wiptest",
