@@ -6,10 +6,18 @@
 
 # bun template
 
+## bun install
+
 [Installation bun](https://bun.sh)
 
 ```bash
 curl -fsSL https://bun.sh/install | bash
+```
+
+## bun upgrade
+
+```
+bun upgrade
 ```
 
 - [examples](https://github.com/oven-sh/bun/tree/main/examples)
