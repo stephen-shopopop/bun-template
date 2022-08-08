@@ -26,7 +26,7 @@ bun upgrade
 ## Usage
 
 ```bash
-bun run index.ts
+bun run src/index.ts
 ```
 
 ### CLI

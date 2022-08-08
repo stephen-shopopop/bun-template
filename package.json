@@ -8,7 +8,7 @@
   },
   "main": "src/index.ts",
   "devDependencies": {
-    "bun-types": "^0.1.4",
+    "bun-types": "^0.1.5",
     "snazzy": "^9.0.0",
     "ts-standard": "^11.0.0",
     "typescript": "^4.7.4"
@@ -21,7 +21,7 @@
   ],
   "description": "template use bun",
   "engines": {
-    "bun": ">=0.1.14"
+    "bun": ">=0.1.7"
   },
   "keywords": [
     "bun"
